@@ -20,8 +20,9 @@ motive_Chrome is a simple yet powerful Chrome extension designed to brighten you
 - **Non-stop Inspiration:** A perfect companion for your daily hustle.
 
 ---
-![Motivational Screenshot 1](screenshots/Screenshot 2025-06-07 002428.png)
-![Motivational Screenshot 2](screenshots/Screenshot 2025-06-07 002428.png)
+![Motivational Screenshot 1](screenshots/Screenshot_2025-06-07_002428.png)
+![Motivational Screenshot 2](screenshots/Screenshot_2025-06-07_002447.png)
+
 
 
 ## 🚀 How to Install & Use motive_Chrome
