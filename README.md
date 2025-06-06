@@ -1,3 +1,8 @@
+![Motivational Screenshot 1](screenshots/Screenshot_2025-06-07_002428.png)
+![Motivational Screenshot 2](screenshots/Screenshot_2025-06-07_002447.png)
+
+
+
 # ✨ motive_Chrome — Your Daily Dose of Motivation ✨
 
 > *“Your only limit is your mind.”*  
