@@ -129,7 +129,7 @@ function showNextQuoteAndImage() {
     
     chrome.notifications.create({
       type: 'basic',
-      iconUrl: "icon48.png", 
+      iconUrl: imageUrl,
       title: 'Motivation for You!',
       message: quote,
       priority: 1
@@ -159,12 +159,7 @@ chrome.runtime.onInstalled.addListener(() => {
   showNextQuoteAndImage();
 });
 chrome.action.onClicked.addListener(() => {
-  chrome.notifications.create({
-    type: 'basic',
-    iconUrl: 'icon48.png',
-    title: 'Hello from Inspiro!',
-    message: 'This is your test notification.',
-    priority: 2
-  });
+  showNextQuoteAndImage();
 });
+
 
