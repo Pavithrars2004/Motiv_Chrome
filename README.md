@@ -26,8 +26,3 @@ motive_Chrome is a simple yet powerful Chrome extension designed to brighten you
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/charrviwadhwa/motive_Chrome.git
-
-
-![Motivational Screenshot 1](screenshots/Screenshot_2025-06-07_002428.png)
-![Motivational Screenshot 2](screenshots/Screenshot_2025-06-07_002447.png)
-
